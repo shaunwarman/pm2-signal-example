@@ -19,6 +19,11 @@ $ docker kill --signal SIGTERM pm2
 $ docker logs -f pm2
 ```
 
+## Send signal from host (could be agent)
+```
+$ docker kill --signal SIGTERM pm2
+```
+
 ## What's happening?
 We trigger the SIGTERM from the host with `docker kill --signal SIGTERM pm2`.
 The `SIGTERM` is trapped by `init` script and we can trigger `pm2-docker stop all` which will gracefully shutdown the worker
