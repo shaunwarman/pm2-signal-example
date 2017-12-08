@@ -1,0 +1,270 @@
+SIGTERM trapped
+script not found : /pm2/stop
+Exiting PM2
+PM2        | Stopping app:app id:0
+PM2        | Stopping app:app id:1
+0|app      | 2017-12-08 05:13 +00:00: SIGINT trapped - exitting
+1|app      | 2017-12-08 05:13 +00:00: SIGINT trapped - exitting
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+1|app      | 2017-12-08 05:13 +00:00: interval 0
+0|app      | 2017-12-08 05:13 +00:00: interval 0
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+0 application online, exiting
+Exiting PM2
+PM2        | Stopping app:app id:0
+PM2        | Stopping app:app id:1
+0|app      | 2017-12-08 05:13 +00:00: SIGINT trapped - exitting
+1|app      | 2017-12-08 05:13 +00:00: SIGINT trapped - exitting
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+1|app      | 2017-12-08 05:13 +00:00: interval 1
+0|app      | 2017-12-08 05:13 +00:00: interval 1
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+1|app      | 2017-12-08 05:14 +00:00: interval 0
+0|app      | 2017-12-08 05:14 +00:00: interval 0
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+0 application online, exiting
+Exiting PM2
+PM2        | Stopping app:app id:0
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | Stopping app:app id:1
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+0|app      | 2017-12-08 05:14 +00:00: SIGINT trapped - exitting
+1|app      | 2017-12-08 05:14 +00:00: SIGINT trapped - exitting
+1|app      | 2017-12-08 05:14 +00:00: interval 2
+0|app      | 2017-12-08 05:14 +00:00: interval 2
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+1|app      | 2017-12-08 05:14 +00:00: interval 1
+0|app      | 2017-12-08 05:14 +00:00: interval 1
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+1|app      | 2017-12-08 05:14 +00:00: interval 0
+0|app      | 2017-12-08 05:14 +00:00: interval 0
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+1|app      | 2017-12-08 05:14 +00:00: interval 3
+0|app      | 2017-12-08 05:14 +00:00: interval 3
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+0 application online, exiting
+Exiting PM2
+PM2        | Stopping app:app id:0
+PM2        | Stopping app:app id:1
+0|app      | 2017-12-08 05:14 +00:00: SIGINT trapped - exitting
+1|app      | 2017-12-08 05:14 +00:00: SIGINT trapped - exitting
+0|app      | 2017-12-08 05:14 +00:00: interval 2
+1|app      | 2017-12-08 05:14 +00:00: interval 2
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+1|app      | 2017-12-08 05:14 +00:00: interval 1
+0|app      | 2017-12-08 05:14 +00:00: interval 1
+PM2        | Process with pid 20 still alive after 5000ms, sending it SIGKILL now...
+PM2        | Process with pid 34 still alive after 5000ms, sending it SIGKILL now...
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+0|app      | 2017-12-08 05:14 +00:00: interval 4
+1|app      | 2017-12-08 05:14 +00:00: interval 4
+PM2        | App name:app id:0 disconnected
+PM2        | App [app] with id [0] and pid [20], exited with code [0] via signal [SIGKILL]
+PM2        | [HandleExit] PM2 is being killed, stopping restart procedure...
+PM2        | App name:app id:1 disconnected
+PM2        | App [app] with id [1] and pid [34], exited with code [0] via signal [SIGKILL]
+PM2        | [HandleExit] PM2 is being killed, stopping restart procedure...
+PM2        | pid=20 msg=process killed
+PM2        | pid=34 msg=process killed
+PM2        | pid=20 msg=process killed
+PM2        | pid=34 msg=process killed
+PM2        | pid=20 msg=process killed
+PM2        | pid=34 msg=process killed
+PM2        | pid=34 msg=process killed
+PM2        | pid=20 msg=process killed
+PM2        | ===============================================================================
+PM2        | --- Stopping PM2 --------------------------------------------------------------
+PM2        | Time                 : Fri Dec 08 2017 05:14:02 GMT+0000 (UTC)
+PM2        | ===============================================================================
+PM2        | RPC closed

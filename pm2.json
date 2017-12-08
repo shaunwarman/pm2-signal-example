@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "app",
+    "script": "index.js",
+    "instances": "2",
+    "exec_mode": "cluster",
+    "error_file": "/dev/null",
+    "out_file": "/dev/null",
+    "merge_logs": false,
+    "log_date_format": "YYYY-MM-DD HH:mm Z",
+    "listen_timeout": 3000,
+    "kill_timeout": 5000,
+    "wait_ready": true
+  }]
+}

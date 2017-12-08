@@ -1,0 +1,18 @@
+#!/bin/sh
+
+pm2-docker start /pm2/pm2.json &
+
+function sigtermHandler() {
+  echo "SIGTERM trapped"
+  pm2-docker stop all
+}
+
+# Setup signal handler
+trap 'sigtermHandler' SIGTERM
+
+sleep 10
+
+while [[ -n "$(pgrep [Pp][Mm]2)" ]]
+do
+  tail -f /dev/null --pid $(pgrep [Pp][Mm]2)
+done
