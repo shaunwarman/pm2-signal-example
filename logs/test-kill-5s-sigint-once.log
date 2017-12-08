@@ -1,0 +1,52 @@
+SIGTERM trapped
+script not found : /pm2/stop
+Exiting PM2
+PM2        | Stopping app:app id:0
+PM2        | Stopping app:app id:1
+0|app      | 2017-12-08 05:28 +00:00: SIGINT trapped - hostname: 3a5386e1c853 - PID: 20
+1|app      | 2017-12-08 05:28 +00:00: SIGINT trapped - hostname: 3a5386e1c853 - PID: 34
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+0|app      | 2017-12-08 05:28 +00:00: interval 0 - hostname: 3a5386e1c853 - PID: 20
+1|app      | 2017-12-08 05:28 +00:00: interval 0 - hostname: 3a5386e1c853 - PID: 34
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+PM2        | pid=20 msg=failed to kill - retrying in 100ms
+PM2        | pid=34 msg=failed to kill - retrying in 100ms
+0 application online, exiting
+Exiting PM2
+PM2        | Stopping app:app id:0
+PM2        | Stopping app:app id:1
+PM2        | App name:app id:0 disconnected
+PM2        | App name:app id:1 disconnected
+PM2        | App [app] with id [0] and pid [20], exited with code [0] via signal [SIGINT]
+PM2        | [HandleExit] PM2 is being killed, stopping restart procedure...
+PM2        | App [app] with id [1] and pid [34], exited with code [0] via signal [SIGINT]
+PM2        | [HandleExit] PM2 is being killed, stopping restart procedure...
+PM2        | pid=20 msg=process killed
+PM2        | pid=34 msg=process killed
+PM2        | pid=20 msg=process killed
+PM2        | pid=34 msg=process killed
+PM2        | ===============================================================================
+PM2        | --- Stopping PM2 --------------------------------------------------------------
+PM2        | Time                 : Fri Dec 08 2017 05:28:23 GMT+0000 (UTC)
+PM2        | ===============================================================================
+PM2        | RPC closed
